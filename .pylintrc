@@ -1,0 +1,21 @@
+[MASTER]
+ignore=modules
+init-hook="from pylint.config import find_pylintrc; import os, sys; sys.path.append(os.path.dirname(find_pylintrc()))"
+
+[LOGGING]
+logging-format-style=new
+
+[BASIC]
+argument-naming-style=camelCase
+attr-naming-style=camelCase
+const-naming-style=camelCase
+function-naming-style=camelCase
+good-names=i,j,k,ex,_,x,y,z,A,b
+method-naming-style=camelCase
+module-naming-style=camelCase
+variable-naming-style=camelCase
+
+[FORMAT]
+indent-after-paren=2
+indent-string='  '
+max-line-length=120
