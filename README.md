@@ -6,7 +6,7 @@ Palacios-Huerta, I., and Volij, O. (2004):
 The measurement of intellectual influence.
 Econometrica, 72(3), 963–977.
 
-https://www.econstor.eu/bitstream/10419/80143/1/508952654.pdf
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0262.2004.00519.x
 
 Demange, G. (2014): 
 A ranking method based on handicaps. 
