@@ -30,5 +30,5 @@ docker build --tag=journal_ranking .
 ```
 docker run -it -v $(pwd):/root/journal_ranking journal_ranking
 cd journal_ranking
-python3 journalRanking.py references_economicJournals.csv output.csv
+python3 journalRanking.py references_economicJournals.csv ranking.csv
 ```
